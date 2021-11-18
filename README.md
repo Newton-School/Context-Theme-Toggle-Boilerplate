@@ -50,5 +50,6 @@ The final structuring of components is in App.js, please dont change it.
 Do not change any existing classnames or styles.
 
 
+Find the demo below:-
 
-![Demo gif]('/React-context-theme-toggler.gif')
+![Demo gif](/React-context-theme-toggler.gif)
